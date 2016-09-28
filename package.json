@@ -1,0 +1,32 @@
+{
+  "name": "loopback-connector-sqs",
+  "version": "0.0.8",
+  "description": "LoopBack connector for SQS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsarfati/loopback-connector-sqs.git"
+  },
+  "keywords": [
+    "loopback",
+    "sqs",
+    "connector",
+    "framework",
+    "mobile",
+    "push",
+    "notification"
+  ],
+  "author": "gsarfati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsarfati/loopback-connector-sqs/issues"
+  },
+  "homepage": "https://github.com/gsarfati/loopback-connector-sqs#readme",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "aws-sdk": "^2.2.39"
+  }
+}
